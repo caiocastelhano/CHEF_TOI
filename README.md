@@ -28,9 +28,9 @@ Chef Toi is a web application that allows users to discover, book, and enjoy uni
 
 ## 📱 Responsiveness
 
-Built with a **mobile-first** approach, ensuring a seamless experience across desktop, tablet, and mobile devices.
+The interface adapts to different screen sizes, ensuring usability on **desktop, tablet, and mobile**.
 
-## ✅ Project Status
+## ✅ Status
 
 Project **completed** — bootcamp deliverable finished in 2024.
 
