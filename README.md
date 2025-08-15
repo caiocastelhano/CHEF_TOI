@@ -8,8 +8,7 @@ Marketplace that connects clients and professional chefs for unique culinary exp
 
 ## 🧠 About the Project
 
-Chef Toi is a web application that allows users to discover, book, and enjoy unique culinary experiences with professional chefs. The platform connects clients with chefs for personalized events such as private dinners, cooking classes, and more.  
-This project was developed collaboratively in a 4-person team during the Le Wagon intensive coding bootcamp, completed in just two weeks.
+Chef Toi is a web application that allows users to discover, book, and enjoy unique culinary experiences with professional chefs. The platform connects clients with chefs for personalized events such as private dinners, cooking classes, and more. This project was developed collaboratively in a 4-person team during the Le Wagon intensive coding bootcamp, completed in just one week.
 
 ## 🛠️ Technologies Used
 
